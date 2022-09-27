@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohiddin-s
 - 👀 I’m interested in Automation.
-- 🌱 I’m currently learning Robot Framev Work.
+- 🌱 I’m currently learning Robot Frame Work.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
